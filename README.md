@@ -112,7 +112,7 @@ Face-Detection을 이용해 기존의 번거롭고 관리가 힘들었던 출결
 <br>
 <br>
 
-+ 공지사항
++ 실시간 채팅으로 응시 중 문제상황 해결
 
 ![채팅](https://github.com/pdanbi00/LAAMS/assets/88076629/e22a8adf-ee40-424e-85d0-562147d8c6d1)
 
@@ -122,8 +122,7 @@ Face-Detection을 이용해 기존의 번거롭고 관리가 힘들었던 출결
 ### 감독관
 + 출결관리 및 보상 요청
 
-![DR상세](https://github.com/Going9/LAAMS/assets/105552606/4619be23-b89f-485f-93ba-4b49020d3056)
-
+![출결](https://github.com/pdanbi00/LAAMS/assets/88076629/d9368abe-d9a7-462d-8728-c92fd1604ac7)
 <br>
 <br>
 
