@@ -112,6 +112,13 @@ Face-Detection을 이용해 기존의 번거롭고 관리가 힘들었던 출결
 <br>
 <br>
 
++ 공지사항
+
+![채팅](https://github.com/pdanbi00/LAAMS/assets/88076629/e22a8adf-ee40-424e-85d0-562147d8c6d1)
+
+<br>
+<br>
+
 ### 감독관
 + 출결관리 및 보상 요청
 
