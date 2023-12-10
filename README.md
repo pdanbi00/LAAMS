@@ -107,7 +107,7 @@ Face-Detection을 이용해 기존의 번거롭고 관리가 힘들었던 출결
 
 + 공지사항
 
-![공지사](https://github.com/Going9/LAAMS/assets/105552606/5ce86975-bf96-41a3-a9fe-3da1231f1851)
+![공지사항 캡처](https://github.com/pdanbi00/LAAMS/assets/88076629/2be82826-cbfd-45bc-a1ff-7e35e2a1a8e4)
 
 <br>
 <br>
